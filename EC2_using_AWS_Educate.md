@@ -9,8 +9,8 @@ This guide is meant for IN4.0 Talent Academy candidates to access an AWS account
 3. [Launching an EC2 Instance (Virtual Computer)](#launchec2)
 4. [Connecting to the EC2 Instance via Termius](#connectssh)
 
-
-## Signing up for AWS Educate account <a name="signupawseducate"></a>
+<a name="signupawseducate"></a>
+## Signing up for AWS Educate account 
 
 Check your email where you should have received an email from support@awseducate.com
 
@@ -67,7 +67,8 @@ Fill your AWS Educate account credentials and click **Sign In**
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/6%20Login%20AWS%20Educate.png">
 </p>
 
-## Accessing AWS Console using AWS Educate <a name="awsconsoleaccess"></a>
+<a name="awsconsoleaccess"></a>
+## Accessing AWS Console using AWS Educate 
 
 Once you sign in, you will see a number of options to
 
@@ -116,7 +117,8 @@ Click on the **AWS Console** button and a new tab will open with your AWS accoun
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/12%20AWS%20account.png">
 </p>
 
-## Launching an EC2 Instance (Virtual Computer) <a name="launchec2"></a>
+<a name="launchec2"></a>
+## Launching an EC2 Instance (Virtual Computer) 
 
 On the top left of your AWS console, go to Services and click on the EC2 link under Compute section. This will take you to the EC2 Dashboard where you find the EC2 resources configured in your account for the selected region
 
@@ -175,8 +177,8 @@ In order to connect to this instance, the other information you require are:
  - **Port**: 22
  - **Key Pair**: *the \*.pem file you downloaded while launching the instance*
 
-
-## Connecting to the EC2 Instance via Termius<a name="connectssh"></a>
+<a name="connectssh"></a>
+## Connecting to the EC2 Instance via Termius
 
 Download and Install the Termius software from https://termius.com for your operating system
 
