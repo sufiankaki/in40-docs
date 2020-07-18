@@ -2,7 +2,15 @@
 
 This guide is meant for IN4.0 Talent Academy candidates to access an AWS account for the classwork related to hosting a website, exploring AWS services and preparing for the AWS certifications.
 
-## Signing up for AWS Educate account
+
+### Table of contents
+1. [Signing up for AWS Educate account](#signupawseducate)
+2. [Accessing AWS Console using AWS Educate](#awsconsoleaccess)
+3. [Launching an EC2 Instance (Virtual Computer)](#launchec2)
+4. [Connecting to the EC2 Instance via Termius](#connectssh)
+
+
+## Signing up for AWS Educate account <a name="signupawseducate"></a>
 
 Check your email where you should have received an email from support@awseducate.com
 
@@ -58,7 +66,8 @@ Fill your AWS Educate account credentials and click **Sign In**
 <p align="center">
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/6%20Login%20AWS%20Educate.png">
 </p>
-## Accessing AWS Console using AWS Educate
+
+## Accessing AWS Console using AWS Educate <a name="awsconsoleaccess"></a>
 
 Once you sign in, you will see a number of options to
 
@@ -76,6 +85,7 @@ We are interested in getting access to the AWS console, so click on the AWS acco
 <p align="center">
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/8%20AWS%20tab%20in%20AWS%20Educate.png">
 </p>
+
 Click on the **AWS Educate Starter Account**
 
 This will open a new tab in your browser and take you to the Workbench maintained by Vocareum platform to allow you to access the AWS account
@@ -83,16 +93,19 @@ This will open a new tab in your browser and take you to the Workbench maintaine
 <p align="center">
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/9%20Vocareum%20Platform.png">
 </p>
+
 This page shows your AWS Account Status for the Starter Account. If you are enrolled into a class by your professor, you should be able to see more classes when you click the down arrow next to *My Classes* link on the menu bar
 
 <p align="center">
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/10%20AWS%20Educate%20AWS%20accounts.png">
 </p>
+
 Click on AWS Educate - Atria IoT Labs in this case to access the AWS account with higher credits
 
 <p align="center">
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/11%20Vocareum%20Atria%20IoT%20Labs%20AWS%20account.png">
 </p>
+
 As you make use of AWS services from these accounts, the remaining credits will decrease. You can find the cost of running AWS services from https://aws.amazon.com 
 
 Note: The session time denotes the time until which the AWS account will be logged into the current browser. After the session time, you would be automatically logged out from the AWS account. However, any service that you created or started during this session will keep running until you run out of credits.
@@ -102,23 +115,27 @@ Click on the **AWS Console** button and a new tab will open with your AWS accoun
 <p align="center">
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/12%20AWS%20account.png">
 </p>
-## Launching an EC2 Instance (Virtual Computer)
+
+## Launching an EC2 Instance (Virtual Computer) <a name="launchec2"></a>
 
 On the top left of your AWS console, go to Services and click on the EC2 link under Compute section. This will take you to the EC2 Dashboard where you find the EC2 resources configured in your account for the selected region
 
 <p align="center">
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/13%20EC2%20Dashboard.png">
 </p>
+
 Click on **Launch Instance** to select the Amazon Machine Image (AMI). We shall use Amazon Linux 2 operating system throughout this program, so select the same
 
 <p align="center">
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/14%20EC2%20Select%20AMI.png">
 </p>
+
 You will now be prompted to select the Instance Type. **t2.micro** comes for free (750hours/account) and it's technical specification is good enough for a beginner level web server so select t2.micro
 
 <p align="center">
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/15%20EC2%20Select%20Instance%20Type.png">
 </p>
+
 Click **Review and Launch**. This will take you to a page where you can review all the different configurations such as 
 
  - Storage Type and capacity
@@ -132,6 +149,7 @@ You will now be prompted to select the key pair required to access the EC2 Insta
 <p align="center">
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/16%20Create%20Key%20Pair.png">
 </p>
+
 **Download the key pair**. Notice the extension of the file once it is downloaded. We will refer to this file as the **.pem* file henceforth since this file has a .pem extension.
 
 Once you download the key pair file, click on **Launch Instances**. This should take you to the following page
@@ -139,6 +157,7 @@ Once you download the key pair file, click on **Launch Instances**. This should 
 <p align="center">
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/17%20View%20Instances.png">
 </p>
+
 Click on the **View Instances** button to look at the EC2 instance that is being provisioned for you. In a couple of minutes you should be able to see the status of this instance converting from *pending* to *running*
 
 You should have a screen looking as follows (ignore my terminated instance). When you click on the checkbox or the Instance ID of the running instance you should be able to see all the instance details on the lower half of the screen
@@ -157,7 +176,7 @@ In order to connect to this instance, the other information you require are:
  - **Key Pair**: *the \*.pem file you downloaded while launching the instance*
 
 
-## Connecting to the EC2 Instance via Termius
+## Connecting to the EC2 Instance via Termius<a name="connectssh"></a>
 
 Download and Install the Termius software from https://termius.com for your operating system
 
@@ -184,6 +203,7 @@ Now double click on the Host you just added and it should prompt you to confirm 
 <p align="center">
 <img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/21%20Fingerprint%20confirmation.png">
 </p>
+
 Click **YES** to proceed
 
 Now you should successfully be able to get access to the Terminal / Shell / Console of your EC2 instance
