@@ -1,6 +1,6 @@
-# Using your AWS Educate Account to host websites
+# Using AWS Educate to connect to an EC2 instance
 
-This guide is meant for IN4.0 Talent Academy candidates to access an AWS account for the classwork related to hosting a website, exploring AWS services and preparing for the AWS certifications.
+This guide is meant for IN4.0 Talent Academy candidates to access an Amazon Linux 2 based EC2 instance for the classwork related to hosting a website, exploring AWS services and preparing for the AWS certifications.
 
 
 ### Table of contents
@@ -98,13 +98,13 @@ This will open a new tab in your browser and take you to the Workbench maintaine
 This page shows your AWS Account Status for the Starter Account. If you are enrolled into a class by your professor, you should be able to see more classes when you click the down arrow next to *My Classes* link on the menu bar
 
 <p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/10%20AWS%20Educate%20AWS%20accounts.png">
+<img width="50%" height="50%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/10%20AWS%20Educate%20AWS%20accounts.png">
 </p>
 
 Click on AWS Educate - Atria IoT Labs in this case to access the AWS account with higher credits
 
 <p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/11%20Vocareum%20Atria%20IoT%20Labs%20AWS%20account.png">
+<img width="50%" height="50%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/11%20Vocareum%20Atria%20IoT%20Labs%20AWS%20account.png">
 </p>
 
 As you make use of AWS services from these accounts, the remaining credits will decrease. You can find the cost of running AWS services from https://aws.amazon.com 
