@@ -13,7 +13,7 @@ Download [this](https://drive.google.com/file/d/1Q85kELzaGw0jq9rdeGAWXRQvfeVSWac
 
 Download and Start / Install [Raspberry Pi **Imager**](https://www.raspberrypi.org/downloads/) software for your Operating System from 
 
-Once the *Image* is downloaded, open the *Imager* and select the *Image* as Step 1
+Once the *Image* is downloaded, open the *Imager* and select the option to flash the Operating System from a Custom Image and select the *Image* [*.dmg.gz] that you downloaded
 
 Insert your 16GB+ SD Card into the Computer and select the SD Card in Step 2 of *Imager*
 
