@@ -9,7 +9,7 @@ This document describes how you can configure your Raspberry Pi and get started 
 
 ## Preparing the SD Card
 
-Download [this](https://drive.google.com/file/d/1Q85kELzaGw0jq9rdeGAWXRQvfeVSWack/view?usp=sharing) Raspberry Pi **Image**
+Download [this](https://drive.google.com/file/d/1D8U5FbZmYqnU8ndsXirLQbYSCj_cglbO/view?usp=sharing) Raspberry Pi **Image**
 
 Download and Start / Install [Raspberry Pi **Imager**](https://www.raspberrypi.org/downloads/) software for your Operating System from 
 
@@ -86,32 +86,6 @@ Confirm the signature of device if prompted and enter the password as `raspberry
 You now have full access to your Raspberry Pi's terminal
 
 ## Enabling VNC (Graphical User Interface)
-
-This Raspberry Pi Image was built with very minimal features. To suit up with updates and VNC, do the following
-
-    sudo apt-get update
-
-    sudo apt-get upgrade
-
-To install and host a VNC server, do the following
-
-    sudo apt-get install realvnc-vnc-server # Installing VNC Server
-
-    sudo apt-get install lightdm # Installing GUI 
-
-    sudo vncserver # Initializing VNC Server
-
-Enable VNC in config
-
-    sudo raspi-config
-
-> `Interfacing Options -> VNC -> Enable`
-
-> `Advanced Options -> Resolution -> Mode 85`
-
-> `Boot Options -> Desktop -> Start Desktop and login as pi user by default`
-
-> Let the system **reboot** itself whenever prompted
 
 Download and Install a [VNC viewer](https://www.realvnc.com/en/connect/download/viewer/) for your Operating System
 
