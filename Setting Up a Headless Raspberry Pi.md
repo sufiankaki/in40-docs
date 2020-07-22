@@ -9,15 +9,15 @@ This document describes how you can configure your Raspberry Pi and get started 
 
 ## Preparing the SD Card
 
-Download [this](https://drive.google.com/file/d/1D8U5FbZmYqnU8ndsXirLQbYSCj_cglbO/view?usp=sharing) Raspberry Pi **Image**
+1. **Download [THIS](https://drive.google.com/file/d/1cfRqFYFxEmbI3lhVgvMV_ZCk1xkwgAfe/view?usp=sharing) Raspberry Pi Image ONLY**. This file is about 1.2GB
 
-Download and Start / Install [Raspberry Pi **Imager**](https://www.raspberrypi.org/downloads/) software for your Operating System from 
+2. Download and Start / Install [Raspberry Pi **Imager**](https://www.raspberrypi.org/downloads/) software for your Operating System from 
 
-Once the *Image* is downloaded, open the *Imager* and select the option to flash the Operating System from a Custom Image and select the *Image* [*.dmg.gz] that you downloaded
+3. Once the *Image* is downloaded, open the *Imager* and select the option to flash the Operating System from a **Custom Image** and select the *Image* [*.img.gz] that you downloaded
 
-Insert your 16GB+ SD Card into the Computer and select the SD Card in Step 2 of *Imager*
+4. Insert your 16GB+ SD Card into the Computer and select the SD Card in Step 2 of *Imager*
 
-Click Write
+5. Click Write
 
 > This process takes ample amount of time
 
@@ -27,7 +27,7 @@ Once the *Image* is written and verified on the SD Card, remove the SD card from
 
 > **DO NOT power it up, yet**
 
-Using your Smartphone or a Wifi router, start a Wifi hotspot with 
+1. Using your Smartphone or a Wifi router, start a Wifi hotspot with 
 
     SSID: IN4.0 Talent Academy
 
@@ -35,15 +35,17 @@ Using your Smartphone or a Wifi router, start a Wifi hotspot with
 
 Make sure the hotspot is turned on and ready to accept new connections
 
-Now, Power up your Raspberry Pi
+2. Power up your Raspberry Pi
 
-In a minute or so, the Pi will connect to the Wifi hotspot you are broadcasting
+	In a minute or so, the Pi will connect to the Wifi hotspot you are broadcasting
 
-To establish an SSH connection with the Raspberry Pi from your PC / Laptop / Smartphone (connecting device), make sure the connecting device is also in the same network (I mean connect this device as well to the same wifi hotspot)
+	To establish an SSH connection with the Raspberry Pi from your PC / Laptop / Smartphone (connecting device), make sure the connecting device is also in the same network (I mean connect this device as well to the same wifi hotspot)
 
-Using Terminal / Command Prompt / Termius, run the following command to establish an SSH connection
+3. Using Terminal / Command Prompt / Termius, run the following command to establish an SSH connection
 
+```
     ssh pi@raspberrypi.local
+```
 
 If your Terminal / Command Prompt is unable to locate raspberry.local, run the following command to find the IP address of the Pi
 
