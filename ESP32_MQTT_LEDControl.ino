@@ -1,15 +1,17 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "xxx";
-const char* password = "xxx";
+const char* WiFi_ssid = "IN4.0 Talent Academy";
+const char* WiFi_password = "password";
+
+const char* mqtt_server = "broker.hivemq.com";
+int mqtt_port = 1883;
+const char* mqtt_username = "in40talent";
+const char* mqtt_password = "password";
 
 const char* subtopic = "subscribe";
 const char* pubtopic = "publish";
 
-int mqtt_port = 1883;
-
-const char* mqtt_server = "broker.hivemq.com";
 
 
 WiFiClient espClient;
@@ -34,7 +36,7 @@ void setup_wifi() {
   Serial.print("Connecting to ");
   Serial.println(ssid);
 
-  WiFi.begin(ssid, password);
+  WiFi.begin(WiFi_ssid, WiFi_password);
 
   while (WiFi.status() != WL_CONNECTED) {
     delay(500);
@@ -72,7 +74,7 @@ void reconnect() {
   while (!client.connected()) {
     Serial.print("Attempting MQTT connection...");
     // Attempt to connect
-    if (client.connect("NodeMCU")) {
+    if (client.connect("ESP32", mqtt_username, mqtt_password)) {
       Serial.println("connected");
       client.subscribe(subtopic);
     } else {
