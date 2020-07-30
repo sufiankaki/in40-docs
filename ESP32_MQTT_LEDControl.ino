@@ -4,7 +4,7 @@
 const char* WiFi_ssid = "IN4.0 Talent Academy";
 const char* WiFi_password = "password";
 
-const char* mqtt_server = "broker.hivemq.com";
+const char* mqtt_server = "mqtt.iot.atria.edu";
 int mqtt_port = 1883;
 const char* mqtt_username = "in40talent";
 const char* mqtt_password = "password";
