@@ -14,25 +14,21 @@ This guide is meant for IN4.0 Talent Academy candidates to access an Amazon Linu
 
 Check your email where you should have received an email from support@awseducate.com
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/1%20Welcome%20Email.png">
-</p>
+>![Email from support@awseducate.com](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/1%20Welcome%20Email.png =500x)
 
 
 Click on the link it has to follow up the application process and it should take you to the form something as follows
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/2%20Signup%20Form.png">
-</p>
+>![Signing up for AWS Educate](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/2%20Signup%20Form.png =500x)
 Fill the fields as suggested below
 
  - School or Institution Name: **Atria Institute of Technology**
- - Country: **India**
+ - Country: **United Kingdom**
  - First Name: *Your First Name*
  - Last Name: *Your Last Name*
- - Email: *username*@**iot.atria.edu**
- - Graduation Month: *Your Graduation Month*
- - Graduation Year: *Highest of (Your graduation year, Current Year + 1)*
+ - Email: *username*@**academy.in40.co.uk**
+ - Graduation Month: **06**
+ - Graduation Year: **2021**
  - Birth Month: *Your birth month*
  - Birth Year: *Your birth year*
  - Promo Code: *blank*
@@ -41,21 +37,19 @@ Check the I'm not a robot field and prove the same and click Next
 
 In the next page, scroll through the Terms and Conditions till the end, select I agree and click Submit
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/3%20Submit%20AWS%20Educate%20application.png">
-</p>
+>![Accepting the Terms](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/3%20Submit%20AWS%20Educate%20application.png =500x)
+
 After you submit, you should receive an email from support@awseducate.com asking you to confirm your email and the application
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/4%20Email%20verification.png">
-</p>
+
+>![Confirming Email](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/4%20Email%20verification.png =500x)
+
 Click on the verification link in the email and you're application for AWS Educate gets completed here.
 
 In a few minutes, you should receive another email approving your application to the AWS Educate. 
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/5%20Approval%20of%20AWS%20Educate.png">
-</p>
+>![Approval to AWS Educate](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/5%20Approval%20of%20AWS%20Educate.png =500x)
+
 Feel free to click on the given link and setup a password.
 
 To access your AWS Educate account, go to https://www.awseducate.com (and click on Sign in to AWS Educate) or go to https://www.awseducate.com/signin/SiteLogin 
@@ -63,9 +57,7 @@ To access your AWS Educate account, go to https://www.awseducate.com (and click 
 
 Fill your AWS Educate account credentials and click **Sign In**
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/6%20Login%20AWS%20Educate.png">
-</p>
+>![Signing in to AWS Educate](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/6%20Login%20AWS%20Educate.png =500x)
 
 <a name="awsconsoleaccess"></a>
 ## Accessing AWS Console using AWS Educate 
@@ -78,34 +70,32 @@ Once you sign in, you will see a number of options to
  - Access your AWS account
 
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/7%20AWS%20Educate%20Menubar.png">
-</p>
+
+
+>![AWS Educate portal](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/7%20AWS%20Educate%20Menubar.png)
+
 We are interested in getting access to the AWS console, so click on the AWS account link in the menubar and it will take you to this page
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/8%20AWS%20tab%20in%20AWS%20Educate.png">
-</p>
+
+>![AWS Educate Starter Account](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/8%20AWS%20tab%20in%20AWS%20Educate.png =500x)
+
 
 Click on the **AWS Educate Starter Account**
 
 This will open a new tab in your browser and take you to the Workbench maintained by Vocareum platform to allow you to access the AWS account
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/9%20Vocareum%20Platform.png">
-</p>
+
+>![Vocareum Labs](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/9%20Vocareum%20Platform.png =500x)
 
 This page shows your AWS Account Status for the Starter Account. If you are enrolled into a class by your professor, you should be able to see more classes when you click the down arrow next to *My Classes* link on the menu bar
 
-<p align="center">
-<img width="50%" height="50%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/10%20AWS%20Educate%20AWS%20accounts.png">
-</p>
+
+>![Vocareum Labs](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/10%20AWS%20Educate%20AWS%20accounts.png =500x)
 
 Click on AWS Educate - Atria IoT Labs in this case to access the AWS account with higher credits
 
-<p align="center">
-<img width="50%" height="50%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/11%20Vocareum%20Atria%20IoT%20Labs%20AWS%20account.png">
-</p>
+
+>![AWS Educate AWS Account](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/11%20Vocareum%20Atria%20IoT%20Labs%20AWS%20account.png =500x)
 
 As you make use of AWS services from these accounts, the remaining credits will decrease. You can find the cost of running AWS services from https://aws.amazon.com 
 
@@ -113,30 +103,26 @@ Note: The session time denotes the time until which the AWS account will be logg
 
 Click on the **AWS Console** button and a new tab will open with your AWS account. Make sure you have unblocked popups or click on the popup notification in your URL bar manually if you see no action after clicking on the AWS Console button.
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/12%20AWS%20account.png">
-</p>
+
+>![AWS Console](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/12%20AWS%20account.png =500x)
 
 <a name="launchec2"></a>
 ## Launching an EC2 Instance (Virtual Computer) 
 
 On the top left of your AWS console, go to Services and click on the EC2 link under Compute section. This will take you to the EC2 Dashboard where you find the EC2 resources configured in your account for the selected region
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/13%20EC2%20Dashboard.png">
-</p>
+
+>![EC2 Dashboard](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/13%20EC2%20Dashboard.png =500x)
 
 Click on **Launch Instance** to select the Amazon Machine Image (AMI). We shall use Amazon Linux 2 operating system throughout this program, so select the same
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/14%20EC2%20Select%20AMI.png">
-</p>
+
+>![Select EC2 Operating System](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/14%20EC2%20Select%20AMI.png =500x)
 
 You will now be prompted to select the Instance Type. **t2.micro** comes for free (750hours/account) and it's technical specification is good enough for a beginner level web server so select t2.micro
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/15%20EC2%20Select%20Instance%20Type.png">
-</p>
+
+>![Select EC2 Instance Type](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/15%20EC2%20Select%20Instance%20Type.png =500x)
 
 Click **Review and Launch**. This will take you to a page where you can review all the different configurations such as 
 
@@ -148,25 +134,23 @@ We will stick with the defaults. Click **Launch**
 
 You will now be prompted to select the key pair required to access the EC2 Instance you are about to create. Select the *Create a new key pair* option from the drop-down menu and enter a name for key pair. The key pair acts as a secure password for you to login to your EC2 Instance / Virtual Machine.
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/16%20Create%20Key%20Pair.png">
-</p>
+
+>![Create key pair EC2](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/16%20Create%20Key%20Pair.png =500x)
 
 **Download the key pair**. Notice the extension of the file once it is downloaded. We will refer to this file as the **.pem* file henceforth since this file has a .pem extension.
 
 Once you download the key pair file, click on **Launch Instances**. This should take you to the following page
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/17%20View%20Instances.png">
-</p>
+
+>![Launch EC2 Instance - Success](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/17%20View%20Instances.png =500x)
 
 Click on the **View Instances** button to look at the EC2 instance that is being provisioned for you. In a couple of minutes you should be able to see the status of this instance converting from *pending* to *running*
 
 You should have a screen looking as follows (ignore my terminated instance). When you click on the checkbox or the Instance ID of the running instance you should be able to see all the instance details on the lower half of the screen
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/18%20Instances%20list.png">
-</p>
+
+>![Accessing Public IPv4 address of EC2](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/18%20Instances%20list.png =500x)
+
 The Instance description section give you most of the information about the EC2 instance you have selected. One of the things to be noted here is 
 
  - **IPv4 Public IP**: This is the IP address / Hostname you shall use while connecting to this instance via SSH
@@ -184,9 +168,9 @@ Download and Install the Termius software from https://termius.com for your oper
 
 Once the installation is complete, launch the Termius application and you should see the Termius window as follows (by skipping the Sign Up)
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/19%20Termius%20Window.png">
-</p>
+
+>![Adding a Host in Termius](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/19%20Termius%20Window.png =500x)
+
 
 Click on **+New Host** and configure the following
 
@@ -197,20 +181,20 @@ Click on **+New Host** and configure the following
 
 This should display the Host you just configured and saved.
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/20%20New%20Host%20Termius.png">
-</p>
+
+>![Adding Host in Termius](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/20%20New%20Host%20Termius.png =500x)
+
 Now double click on the Host you just added and it should prompt you to confirm the fingerprint. This is a method of confirming your connection to a new computer over SSH. 
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/21%20Fingerprint%20confirmation.png">
-</p>
+
+>![Confirming authenticity](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/21%20Fingerprint%20confirmation.png =500x)
+
 
 Click **YES** to proceed
 
 Now you should successfully be able to get access to the Terminal / Shell / Console of your EC2 instance
 
-<p align="center">
-<img width="75%" height="75%" src="https://raw.githubusercontent.com/sufiankaki/in40-docs/master/22%20Terminal.png">
-</p>
+
+>![Connected to EC2 with Termius](https://raw.githubusercontent.com/sufiankaki/in40-docs/master/22%20Terminal.png =500x)
+
 Well done! You can now focus on the Application development and Server management henceforth.
